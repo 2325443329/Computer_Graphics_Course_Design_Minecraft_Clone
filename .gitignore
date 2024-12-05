@@ -1,0 +1,9 @@
+# 忽略所有 .ipch 文件
+*.ipch
+# 忽略 Visual Studio 的临时文件
+.vs/
+*.db
+*.suo
+# 忽略 build 文件夹
+/build/
+
